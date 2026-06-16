@@ -196,6 +196,10 @@ Contributions, issues, and feature requests are welcome! Feel free to open a PR 
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
+## Bonus Content
+
+https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
+
 ---
 
 <p align="center">Built with ❤️ using the <a href="https://www.anthropic.com/">Anthropic Claude API</a></p>
